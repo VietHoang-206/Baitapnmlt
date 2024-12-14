@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1733992295 source:h:\c++\code\kythuattinhtong-156\main.cpp
+	<iostream>
+	<cstdlib>
+
